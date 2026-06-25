@@ -1,2 +1,2 @@
-# Generative-Ai
+# Generative AI
 Generative Models
