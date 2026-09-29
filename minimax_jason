@@ -1,0 +1,42 @@
+[
+  {
+    "repo": "Comfy-Org/MiniMax-H3",
+    "revision": "1c41cfca8ebba91d0af792a05c5761fb2c3a7975",
+    "filename": "diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "destination": "diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "size": 20970379616,
+    "sha256": "9255f52b6677845ad238f20dfaafa94727053694127ab7f255c048f0f9365779"
+  },
+  {
+    "repo": "Comfy-Org/MiniMax-H3",
+    "revision": "1c41cfca8ebba91d0af792a05c5761fb2c3a7975",
+    "filename": "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "destination": "text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "size": 15687142551,
+    "sha256": "35a88d51044231fe332301d7a62aa81e3f2cba62febeb446e2c1e3e0ef76f2c6"
+  },
+  {
+    "repo": "Comfy-Org/MiniMax-H3",
+    "revision": "1c41cfca8ebba91d0af792a05c5761fb2c3a7975",
+    "filename": "vae/minimax_h3_video_vae_fp16.safetensors",
+    "destination": "vae/minimax_h3_video_vae_fp16.safetensors",
+    "size": 5207808496,
+    "sha256": "7c1f131492e7eddacaac9069a61b81bdd39de5cc96561e677c5eab1cdce5e522"
+  },
+  {
+    "repo": "Comfy-Org/MiniMax-H3",
+    "revision": "1c41cfca8ebba91d0af792a05c5761fb2c3a7975",
+    "filename": "vae/minimax_h3_audio_vae_fp32.safetensors",
+    "destination": "vae/minimax_h3_audio_vae_fp32.safetensors",
+    "size": 605254808,
+    "sha256": "8e505d95dd1561d47abd43d4238fd40d9bb1ae9e147ed0a4cba778d76ae4db48"
+  },
+  {
+    "repo": "ostris/minimax_h3_training_adapter",
+    "revision": "b2e664cb0bba5d96f3ab02fc142c825d4b2409e1",
+    "filename": "minimax_h3_ref2va_training_adapter_v1.safetensors",
+    "destination": "loras/minimax_h3_ref2va_training_adapter_v1.safetensors",
+    "size": 155110344,
+    "sha256": "79611559f85712b9ed3bd8a4009d07294dcf88b62ac566051128cfb65d87e0de"
+  }
+]
